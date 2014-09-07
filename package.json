@@ -1,0 +1,12 @@
+{
+  "name": "bookbucket",
+  "description": "Fetch book bucket challenge posts",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git"
+  },
+  "dependencies": {
+    "fbgraph": "^0.2.11",
+    "q": "^1.0.1"
+  }
+}
